@@ -1,0 +1,5 @@
+Tasks list:
+- Practice git init
+- Add and commit files
+- Branch and merge
+- Push to GitHub
